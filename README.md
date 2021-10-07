@@ -5,4 +5,5 @@ Hello everyone , I am contributing as a Data Science and Business Analytics Inte
 <br><b>I completed the following tasks :</b>
 <li>Prediction using Supervised ML
 <li>Exploratory Data Analysis on Retail
-<li>Exploratory Data Analysis on Global Terrorism<br>
+<li>Exploratory Data Analysis on Global Terrorism
+<li>Exploratory Data Analysis on Sports<br>
